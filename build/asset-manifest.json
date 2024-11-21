@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dynamic_form_generator/static/css/main.7b2b7060.css",
+    "main.js": "/dynamic_form_generator/static/js/main.727b35c3.js",
+    "static/js/453.1ea3a731.chunk.js": "/dynamic_form_generator/static/js/453.1ea3a731.chunk.js",
+    "index.html": "/dynamic_form_generator/index.html",
+    "main.7b2b7060.css.map": "/dynamic_form_generator/static/css/main.7b2b7060.css.map",
+    "main.727b35c3.js.map": "/dynamic_form_generator/static/js/main.727b35c3.js.map",
+    "453.1ea3a731.chunk.js.map": "/dynamic_form_generator/static/js/453.1ea3a731.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b2b7060.css",
+    "static/js/main.727b35c3.js"
+  ]
+}

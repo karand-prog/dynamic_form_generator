@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/karand-prog/dynamic_form_generator/static/css/main.7b2b7060.css",
+    "main.js": "/karand-prog/dynamic_form_generator/static/js/main.9d8a20bd.js",
+    "static/js/453.1ea3a731.chunk.js": "/karand-prog/dynamic_form_generator/static/js/453.1ea3a731.chunk.js",
+    "index.html": "/karand-prog/dynamic_form_generator/index.html",
+    "main.7b2b7060.css.map": "/karand-prog/dynamic_form_generator/static/css/main.7b2b7060.css.map",
+    "main.9d8a20bd.js.map": "/karand-prog/dynamic_form_generator/static/js/main.9d8a20bd.js.map",
+    "453.1ea3a731.chunk.js.map": "/karand-prog/dynamic_form_generator/static/js/453.1ea3a731.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b2b7060.css",
+    "static/js/main.9d8a20bd.js"
+  ]
+}
